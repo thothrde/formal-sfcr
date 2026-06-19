@@ -1,0 +1,14 @@
+import FormalSFCR.Types
+import FormalSFCR.Directive
+import FormalSFCR.Predicates
+import FormalSFCR.Cases.MunichRe_FY2025
+import FormalSFCR.Cases.ERGO_Direkt_FY2024
+import FormalSFCR.Cases.ERGO_Leben_FY2024
+import FormalSFCR.Cases.Allianz_FY2025
+import FormalSFCR.Cases.HannoverRueck_FY2025
+import FormalSFCR.Cases.Talanx_FY2024
+import FormalSFCR.Cases.HUK_Coburg_FY2025
+import FormalSFCR.Cases.AXA_Deutschland
+import FormalSFCR.Cases.Generali_Deutschland
+import FormalSFCR.Cases.RuV_Versicherung
+import FormalSFCR.Cases.Debeka
